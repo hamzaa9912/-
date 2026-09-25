@@ -1,0 +1,6 @@
+{
+  "name": "المُعرب",
+  "description": "تطبيق إعراب الكلمات وقواعد النحو العربي بدون إنترنت مع النطق الصوتي والمفضلة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

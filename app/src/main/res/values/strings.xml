@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">المُعرب</string>
+    <string name="search_placeholder">اكتب كلمة أو جملة لإعرابها بالتفصيل…</string>
+    <string name="tab_parser">إعراب الكلمات</string>
+    <string name="tab_rules">قواعد النحو</string>
+    <string name="tab_favorites">المفضلة</string>
+    <string name="tab_quiz">اختبر معلوماتك</string>
+    <string name="parse_button">إعراب</string>
+    <string name="clear_button">مسح</string>
+    <string name="speak_text">نطق صوتي</string>
+    <string name="copy_text">نسخ الإعراب</string>
+    <string name="save_favorite">حفظ في المفضلة</string>
+    <string name="remove_favorite">إزالة من المفضلة</string>
+</resources>
